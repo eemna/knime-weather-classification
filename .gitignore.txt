@@ -1,0 +1,28 @@
+# Fichiers temporaires
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Configurations locales KNIME
+.metadata/
+.settings/
+workspace/
+.knime/
+
+# Données volumineuses
+data/
+datasets/
+*.csv
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Cache
+.cache/
